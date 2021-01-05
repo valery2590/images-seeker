@@ -1,0 +1,6 @@
+.nav_container_ul{
+    display: flex;
+    list-style-type: none;
+    background-color: white;
+
+}

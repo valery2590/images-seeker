@@ -1,0 +1,7 @@
+.greetings{
+    background-color: yellow;
+    color: blue;
+    border-radius: 12px;
+    display: flex;
+    margin: auto;
+}
